@@ -411,7 +411,7 @@ main {
 }
 
 .contact-info {
-  max-width: calc(100% - 46px);
+  max-width: calc(100% - 60x);
   width: calc(100% - 46px);
 }
 
@@ -749,7 +749,7 @@ main {
 }
 
 .clients-item img {
-  width: 100%;
+  width: 20%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
